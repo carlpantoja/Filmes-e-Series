@@ -8,8 +8,14 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-responsive": "^9.0.2",
+    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.0.8",
     "web-vitals": "^2.1.4"
+  },
+  "resolutions": {
+    "@babel/traverse": "^7.23.2"
   },
   "scripts": {
     "start": "react-scripts start",
